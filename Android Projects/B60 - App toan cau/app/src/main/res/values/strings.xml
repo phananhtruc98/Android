@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name">Type name</string>
+    <string name="text_email">Type email</string>
+    <string name="text_phonenumber">Type phone number</string>
+    <string name="text_tittle">Information form</string>
+    <string name="button_conform">Confirm</string>
+    <string name="text_Chaoban">Hello</string>
+    <string name="text_Email" translatable="false">Email</string>
+    <string name="text_Sodienthoai">Phone number</string>
+
+</resources>
