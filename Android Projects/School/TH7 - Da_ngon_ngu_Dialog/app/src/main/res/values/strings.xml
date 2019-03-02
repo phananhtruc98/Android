@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="thongtin_hoten">Name</string>
+    <string name="thongtin_noisinh">Place of birth</string>
+    <string name="thongtin_sdt">Cell phones</string>
+    <string name="thongtin_email">Email</string>
+    <string name="thongtin_gui">Send</string>
+</resources>

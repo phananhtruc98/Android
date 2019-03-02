@@ -36,4 +36,5 @@ public class BMIActivity extends AppCompatActivity {
         i.putExtra("cannang",cannang.getText().toString());
         startActivity(i);
     }
+
 }
